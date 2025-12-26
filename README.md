@@ -9,13 +9,12 @@ Gosto de entender o *porquê* das soluções, não apenas aplicações prontas.
 ---
 
 ### 🛠️ Tecnologias e ferramentas
-- Python
-- Flask
-- C
-- Java
-- SQL (SQLite / MySQL)
-- Git e GitHub
-- Docker (em estudo)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -32,7 +31,13 @@ Gosto de entender o *porquê* das soluções, não apenas aplicações prontas.
 Consolidar uma base sólida em back-end, com foco em código limpo, bem explicado e funcional, evoluindo para projetos cada vez mais completos.
 
 ---
+### 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taina-Ribeiro&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taina-Ribeiro&layout=compact)
+
+---
 ### 📫 Contato
 - GitHub: https://github.com/Taina-Ribeiro
 - E-mail: tainaribeiro687@gmail.com
