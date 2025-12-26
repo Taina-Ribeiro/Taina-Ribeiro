@@ -1,10 +1,10 @@
 ## Oi, eu sou a Tainá 👋
 
-🎓 Estudante de Engenharia de Software <br>
+🎓 Estudante de Engenharia de Software  
 💻 Foco em desenvolvimento back-end 
 
 Atualmente estudo e desenvolvo projetos utilizando **Python** e **Flask**, com interesse em autenticação, bancos de dados e organização de código.  
-Gosto de entender o *porquê* das soluções, não apenas aplicações prontas.
+Gosto de entender o *porquê* das soluções, não apenas aplicar soluções prontas.
 
 ---
 
