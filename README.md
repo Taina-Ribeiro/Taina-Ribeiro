@@ -31,13 +31,6 @@ Gosto de entender o *porquê* das soluções, não apenas aplicações prontas.
 Consolidar uma base sólida em back-end, com foco em código limpo, bem explicado e funcional, evoluindo para projetos cada vez mais completos.
 
 ---
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Taina-Ribeiro&show_icons=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Taina-Ribeiro&layout=compact)
-
----
 ### 📫 Contato
 - GitHub: https://github.com/Taina-Ribeiro
 - E-mail: tainaribeiro687@gmail.com
