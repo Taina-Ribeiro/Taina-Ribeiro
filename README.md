@@ -31,6 +31,10 @@ Gosto de entender o *porquê* das soluções, não apenas aplicar soluções pro
 Consolidar uma base sólida em back-end, com foco em código limpo, bem explicado e funcional, evoluindo para projetos cada vez mais completos.
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taina-Ribeiro&show_icons=true&cache_seconds=1800)
+
+---
 ### 📫 Contato
 - GitHub: https://github.com/Taina-Ribeiro
 - E-mail: tainaribeiro687@gmail.com
