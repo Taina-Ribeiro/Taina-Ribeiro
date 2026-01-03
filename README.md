@@ -35,4 +35,5 @@ Consolidar uma base sólida em back-end, com foco em código limpo, bem explicad
 
 ### 📫 Contato
 - GitHub: https://github.com/Taina-Ribeiro
+- Linkedln: https://www.linkedin.com/in/tainaribeirocosta/
 - E-mail: tainaribeiro687@gmail.com
